@@ -73,7 +73,7 @@ function LandingPage() {
             style={{ fontSize: 'clamp(2.8rem, 8vw, 6.5rem)', lineHeight: 1.05 }}
           >
             Food that{' '}
-            <span className="gradient-text">finds you.</span>
+            <span className="gradient-text"></span>
           </h1>
 
           <p
